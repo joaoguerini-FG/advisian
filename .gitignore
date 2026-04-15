@@ -1,0 +1,56 @@
+# Credenciais - NUNCA commitar
+intimacoes_config.json
+*.env
+.env
+*.key
+
+# Arquivos temporarios / grandes
+historico_djen_completo.json
+base_conhecimento_v2.json
+ground_truth_djen_datajuri.json
+ground_truth_v3.json
+ground_truth_v4.json
+analise_v1_v2.json
+area_mismatches.json
+intimacoes.log
+intimacoes_djen.xlsx
+comparacao_controller.json
+
+# Scripts auxiliares com credenciais hardcoded (manter local)
+datajuri_explore.py
+bootstrap_maximo.py
+capturar_historico.py
+etapa12_rapida.py
+run_13_14_15.py
+reclassificar_openai.py
+reclassificar_erros.py
+reclassificar_agora.py
+reclassificar_dia_15_v2.py
+reclassificar_reclamacao.py
+reverter_v1.py
+comparar_com_controller.py
+comparar_v1_v2.py
+construir_base_v2.py
+cruzar_djen_datajuri.py
+cruzar_v3_rigoroso.py
+cruzar_v4_teor_puro.py
+fix_dashboard.py
+debug_dash.py
+dash_final.py
+detectar_area_mismatch.py
+corrigir_mismatches.py
+corrigir_beneficio_indeferido.py
+enriquecer_valor_tipo.py
+motor_hibrido.py
+classificar_agora.py
+classificar_intimacoes.py
+gerar_dashboard.py
+
+# Cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+.claude/

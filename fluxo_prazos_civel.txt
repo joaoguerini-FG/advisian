@@ -1,0 +1,286 @@
+FLUXO DE TAREFAS
+SETOR CÍVEL (MÉDICO) – JUIZADO ESPECIAL
+FASE DE CONHECIMENTO
+Andamento | Publicação RESPONSÁVEL Tarefa (s)
+Despacho inicial (citar a ré) DOUBLE CHECK NADA ou *RECADO1
+Decisão/Ato ordinatório inicial CAROL EMENDA + COBRAR CLIENTE +
+juntada de documentos (art. 321 PRAZO PRÓPRIO (EMENDA)
+CPC)
+Despacho/Ato ordinatório CAROL RÉPLICA
+manifestação contestação
+Audiência virtual ARMANDO AUDIÊNCIA + PROV. AUDIÊNCIA
+Audiência presencial CAROL AUDIÊNCIA + PROV. AUDIÊNCIA +
+CONVERSÃO AUDIÊNCIA
+Nega conversão audiência CONTROLADORIA2 RECADO
+Sentença improcedência ARMANDO SENTENÇA CÍVEL + EMBARGOS DE
+DECLARAÇÃO + RECURSO
+INOMINADO + GERAR CUSTAS +
+CONFERIR TRÂNSITO EM JULGADO
++ PRAZO PRÓPRIO3 (RI e ED) +
+AVISAR CLIENTE4
+Sentença procedência/parcial ARMANDO SENTENÇA CÍVEL + EMBARGOS DE
+procedência DECLARAÇÃO + CONFERIR
+TRÂNSITO EM JULGADO + PRAZO
+PRÓPRIO (ED) + AVISAR CLIENTE5
+Apresentar contrarrazões aos CAROL Contrarrazões6
+Embargos de Declaração (interposto
+pelo réu)
+Apresentar contrarrazões ao Recurso CAROL CRRI
+Inominado (interposto pelo réu)
+Intimação réu apresentar DOUBLE CHECK NADA ou *RECADO
+contrarrazões (CRRI ou CRED)
+Despacho/Ato ordinatório/Decisão ARMANDO PETIÇÃO DE MEIO + GERAR CUSTAS
+determinando + Avisar no DISCORD ou outro meio
+complementação/negando de comunicação oficial
+gratuidade de custas no prazo de 48
+horas (interposto pelo autor)
+Despacho/Ato ordinatório/Decisão DOUBLE CHECK NADA ou *RECADO
+determinando
+complementação/negando
+gratuidade (interposto pelo réu)
+1 SUGESTÃO: verificar a possibilidade de criar tarefa de RECADO para outro colaborador da CONTROLADORIA.
+Talvez o responsável pelo DOUBLE CHECK. Assim há a confirmação de que a publicação foi observada, todavia, não
+era pertinente direcionar para o operacional.
+2 JÚLIA ou outro responsável.
+3 Implementação de novo tipo de tarefa para acompanhar o prazo fatal de recursos no D-1. Especificar nas
+“OBSERVAÇÕES” sobre qual tipo de recurso se trata: ED, RI etc.
+4 RESPONSÁVEL: CAROL
+5 RESPONSÁVEL: ANDRÉ/ESTAGIÁRIO “EXPERIENTE”
+6 Se possível, especificar nas OBSERVAÇÕES “CRED”
+ | Andamento | Publicação |  |  | RESPONSÁVEL |  |  | Tarefa (s) | 
+Despacho inicial (citar a ré) |  |  | DOUBLE CHECK |  |  | NADA ou *RECADO1 |  | 
+Decisão/Ato ordinatório inicial
+juntada de documentos (art. 321
+CPC) |  |  | CAROL |  |  | EMENDA + COBRAR CLIENTE +
+PRAZO PRÓPRIO (EMENDA) |  | 
+Despacho/Ato ordinatório
+manifestação contestação |  |  | CAROL |  |  | RÉPLICA |  | 
+Audiência virtual |  |  | ARMANDO |  |  | AUDIÊNCIA + PROV. AUDIÊNCIA |  | 
+Audiência presencial |  |  | CAROL |  |  | AUDIÊNCIA + PROV. AUDIÊNCIA +
+CONVERSÃO AUDIÊNCIA |  | 
+Nega conversão audiência |  |  | CONTROLADORIA2 |  |  | RECADO |  | 
+Sentença improcedência |  |  | ARMANDO |  |  |  | SENTENÇA CÍVEL + EMBARGOS DE | 
+ |  |  |  |  |  |  | DECLARAÇÃO + RECURSO | 
+ |  |  |  |  |  |  | INOMINADO + GERAR CUSTAS + | 
+ |  |  |  |  |  |  | CONFERIR TRÂNSITO EM JULGADO | 
+ |  |  |  |  |  |  | + PRAZO PRÓPRIO3 (RI e ED) + | 
+ |  |  |  |  |  |  | AVISAR CLIENTE4 | 
+Sentença procedência/parcial
+procedência |  |  | ARMANDO |  |  |  | SENTENÇA CÍVEL + EMBARGOS DE | 
+ |  |  |  |  |  |  | DECLARAÇÃO + CONFERIR | 
+ |  |  |  |  |  |  | TRÂNSITO EM JULGADO + PRAZO | 
+ |  |  |  |  |  |  | PRÓPRIO (ED) + AVISAR CLIENTE5 | 
+Apresentar contrarrazões aos
+Embargos de Declaração (interposto
+pelo réu) |  |  | CAROL |  |  | Contrarrazões6 |  | 
+Apresentar contrarrazões ao Recurso
+Inominado (interposto pelo réu) |  |  | CAROL |  |  | CRRI |  | 
+Intimação réu apresentar
+contrarrazões (CRRI ou CRED) |  |  | DOUBLE CHECK |  |  | NADA ou *RECADO |  | 
+Despacho/Ato ordinatório/Decisão
+determinando
+complementação/negando
+gratuidade de custas no prazo de 48
+horas (interposto pelo autor) |  |  | ARMANDO |  |  | PETIÇÃO DE MEIO + GERAR CUSTAS
++ Avisar no DISCORD ou outro meio
+de comunicação oficial |  | 
+Despacho/Ato ordinatório/Decisão
+determinando
+complementação/negando
+gratuidade (interposto pelo réu) |  |  | DOUBLE CHECK |  |  | NADA ou *RECADO |  | 
+Sentença procedência/parcial
+procedência
+Decisão Recurso Inominado não ARMANDO DECISÃO CÍVEL + EMBARGOS DE
+recebido (quando interposto pelo DECLARAÇÃO + PRAZO PRÓPRIO
+autor) (ED)
+Decisão Recurso Inominado não ARMANDO DECISÃO CÍVEL + AVISAR CLIENTE +
+recebido (quanto interposto pelo CONFERIR TRÂNSITO EM JULGADO
+réu)
+Despacho/Ato ordinatório/Decisão ARMANDO CRRI + PRAZO PRÓPRIO (CRRI)7
+determinando apresentação de
+contrarrazões de Recurso Inominado
+(interposto pelo réu)
+Remessa dos autos à Turma Recursal DOUBLE CHECK NADA ou *RECADO
+FASE RECURSAL
+Andamento | Publicação RESPONSÁVEL Tarefa (s)
+Recurso distribuído/recebido Turma DOUBLE CHECK NADA ou *RECADO
+Recursal
+Julgamento pautado para ARMANDO RECADO
+determinada data/Incluído em pauta
+Feito retirado de pauta ARMANDO RECADO + CHAMADA8
+Abertura de prazo para sustentação ARMANDO INSCRIÇÃO SUSTENTAÇÃO ORAL
+oral
+Acórdão (Recurso Inominado) ARMANDO ACÓRDÃO CÍVEL + EMBARGOS DE
+DECLARAÇÃO + PUIL + CONFERIR
+TRÂNSITO EM JULGADO + PRAZO
+PRÓPRIO9 (PUIL10)
+Contrarrazões ao Pedido de ARMANDO Contrarrazões
+Uniformização (PUIL) interposto
+pela ré
+Decisão monocrática nega ARMANDO DECISÃO CÍVEL + CONFERIR
+seguimento ao PUIL interposto pela TRÂNSITO EM JULGADO
+ré
+Decisão monocrática nega ARMANDO DECISÃO CÍVEL + AGRAVO +
+seguimento ao PUIL interposto pelo CONFERIR TRÂNSITO EM JULGADO +
+autor PRAZO PRÓPRIO (AGRAVO)11
+Apresentar contrarrazões ao Agravo ARMANDO CONTRARRAZÕES (CRA/CRAIN) +
+interposto pela ré PRAZO PRÓPRIO (AGRAVO)
+Sobrestamento do feito ag. ARMANDO EMBARGOS DE DECLARAÇÃO ou
+Julgamento PEDILEF/PUIL Tema 325 PETIÇÃO DE MEIO
+Acórdão Turma de Uniformização ARMANDO ACÓRDÃO CÍVEL12 + CONFERIR
+TJSP determinando retratação
+acórdão
+7 Sem apresentar CRRI não teremos direito aos honorários sucumbenciais em caso de não provimento do Recurso
+Inominado da ré.
+8 RESPONSÁVEL: ANDRÉ/ESTAGIÁRIO
+9 Implementação de novo tipo de tarefa para acompanhar o prazo fatal de recursos no D-1. Especificar nas
+“OBSERVAÇÕES” sobre qual tipo de recurso se trata: ED, RI etc.
+10 PUIL TJSP – Prazo de 10 dias úteis. PUIL TRF – Prazo de 15 dias úteis.
+11 TRF – Prazo de 15 dias úteis.
+12 Se possível, especificar nas OBSERVAÇÕES: “PUIL”
+Decisão Recurso Inominado não
+recebido (quando interposto pelo
+autor) | ARMANDO | DECISÃO CÍVEL + EMBARGOS DE
+DECLARAÇÃO + PRAZO PRÓPRIO
+(ED)
+Decisão Recurso Inominado não
+recebido (quanto interposto pelo
+réu) | ARMANDO | DECISÃO CÍVEL + AVISAR CLIENTE +
+CONFERIR TRÂNSITO EM JULGADO
+Despacho/Ato ordinatório/Decisão
+determinando apresentação de
+contrarrazões de Recurso Inominado
+(interposto pelo réu) | ARMANDO | CRRI + PRAZO PRÓPRIO (CRRI)7
+Remessa dos autos à Turma Recursal | DOUBLE CHECK | NADA ou *RECADO
+ | Andamento | Publicação |  | RESPONSÁVEL |  |  | Tarefa (s) | 
+Recurso distribuído/recebido Turma
+Recursal |  |  | DOUBLE CHECK |  | NADA ou *RECADO |  | 
+Julgamento pautado para
+determinada data/Incluído em pauta |  |  | ARMANDO |  | RECADO |  | 
+Feito retirado de pauta |  |  | ARMANDO |  | RECADO + CHAMADA8 |  | 
+Abertura de prazo para sustentação
+oral |  |  | ARMANDO |  | INSCRIÇÃO SUSTENTAÇÃO ORAL |  | 
+Acórdão (Recurso Inominado) |  |  | ARMANDO |  | ACÓRDÃO CÍVEL + EMBARGOS DE
+DECLARAÇÃO + PUIL + CONFERIR
+TRÂNSITO EM JULGADO + PRAZO
+PRÓPRIO9 (PUIL10) |  | 
+Contrarrazões ao Pedido de
+Uniformização (PUIL) interposto
+pela ré |  |  | ARMANDO |  | Contrarrazões |  | 
+Decisão monocrática nega
+seguimento ao PUIL interposto pela
+ré |  |  | ARMANDO |  | DECISÃO CÍVEL + CONFERIR
+TRÂNSITO EM JULGADO |  | 
+Decisão monocrática nega
+seguimento ao PUIL interposto pelo
+autor |  |  | ARMANDO |  | DECISÃO CÍVEL + AGRAVO +
+CONFERIR TRÂNSITO EM JULGADO +
+PRAZO PRÓPRIO (AGRAVO)11 |  | 
+Apresentar contrarrazões ao Agravo
+interposto pela ré |  |  | ARMANDO |  | CONTRARRAZÕES (CRA/CRAIN) +
+PRAZO PRÓPRIO (AGRAVO) |  | 
+Sobrestamento do feito ag.
+Julgamento PEDILEF/PUIL Tema 325 |  |  | ARMANDO |  | EMBARGOS DE DECLARAÇÃO ou
+PETIÇÃO DE MEIO |  | 
+Acórdão Turma de Uniformização
+TJSP determinando retratação
+acórdão |  |  | ARMANDO |  | ACÓRDÃO CÍVEL12 + CONFERIR |  | 
+Acórdão da Turma Recursal de ARMANDO ACÓRDÃO CÍVEL + RECLAMAÇÃO +
+origem sobre retratação/adequação EMBARGOS DE DECLARAÇÃO +
+TJSP PRAZO PRÓPRIO (RECLAMAÇÃO)13
+FASE DE CUMPRIMENTO DE SENTENÇA14
+Andamento | Publicação RESPONSÁVEL Tarefa (s)
+Despacho/Decisão descida dos autos ARMANDO CUMPRIMENTO DE SENTENÇA
++ partes requererem o que
+entendem de direito
+Intimação manifestação dos cálculos ARMANDO PETIÇÃO DE MEIO
+apresentados pela contadoria ou
+réu
+Complementação das custas ARMANDO PETIÇÃO DE MEIO + GERAR CUSTAS
+cumprimento de sentença (TJSP) + COBRAR CLIENTE
+Manifestar da impugnação ofertada ARMANDO PETIÇÃO DE MEIO
+pelo réu
+Intimação para o réu efetuar o ARMANDO CONFERIR15
+pagamento no prazo legal
+(instituição particular)
+Diante da inércia da executada, ARMANDO PETIÇÃO DE MEIO
+intima-se a exequente sobre o
+prosseguimento do feito
+Sentença homologação cálculos do ARMANDO SENTENÇA + EMBARGOS DE
+cumprimento de sentença TJSP DECLARAÇÃO + CONFERIR
+(instituição pública) TRÂNSITO EM JULGADO +
+RPV/PRECATÓRIO
+Sentença homologação cálculos do ARMANDO SENTENÇA + EMBARGOS DE
+cumprimento de sentença DECLARAÇÃO + PETIÇÃO DE MEIO16
+(instituição pública)
+Intimação acerca do teor do ARMANDO PETIÇÃO DE MEIO17
+RPV/Precatório
+Rejeita PRECATÓRIO/RPV por ARMANDO RPV/PRECATÓRIO18
+inconsistências TJSP
+Acerca do pagamento da ARMANDO MLE
+condenação TJSP
+Intimação acerca do pagamento da ARMANDO PETIÇÃO DE MEIO19
+condenação
+Intimação acerca da TED realizada CAROL CONFERIR20
+TRFs e EPROCs
+13 Reclamação TJSP – Prazo de 15 dias úteis.
+14 RESPONSÁVEL POR ESTA FASE: ARMANDO
+15 Se o réu efetuou o pagamento no prazo ou impugnou. Prazo de 15 dias.
+16 Especificar nas OBSERVAÇÕES para solicitar expedição de RPV/Precatório.
+17 Especificar nas OBSERVAÇÕES sobre analisar RPV/PRECATÓRIO.
+18 Especificar nas OBSERVAÇÕES que se trata de novo precatório, pois o anterior foi rejeitado.
+19 Especificar nas OBSERVAÇÕES para solicitar o levantamento de valores.
+20 Especificar nas OBSERVAÇÕES para verificar recebimento de valores via TED.
+Acórdão da Turma Recursal de
+origem sobre retratação/adequação
+TJSP | ARMANDO | ACÓRDÃO CÍVEL + RECLAMAÇÃO +
+EMBARGOS DE DECLARAÇÃO +
+PRAZO PRÓPRIO (RECLAMAÇÃO)13
+ | Andamento | Publicação |  |  | RESPONSÁVEL |  |  | Tarefa (s) | 
+Despacho/Decisão descida dos autos
++ partes requererem o que
+entendem de direito |  |  | ARMANDO |  |  | CUMPRIMENTO DE SENTENÇA |  | 
+Intimação manifestação dos cálculos
+apresentados pela contadoria ou
+réu |  |  | ARMANDO |  |  | PETIÇÃO DE MEIO |  | 
+Complementação das custas
+cumprimento de sentença (TJSP) |  |  | ARMANDO |  |  | PETIÇÃO DE MEIO + GERAR CUSTAS
++ COBRAR CLIENTE |  | 
+Manifestar da impugnação ofertada
+pelo réu |  |  | ARMANDO |  |  | PETIÇÃO DE MEIO |  | 
+Intimação para o réu efetuar o
+pagamento no prazo legal
+(instituição particular) |  |  | ARMANDO |  |  | CONFERIR15 |  | 
+Diante da inércia da executada,
+intima-se a exequente sobre o
+prosseguimento do feito |  |  | ARMANDO |  |  | PETIÇÃO DE MEIO |  | 
+Sentença homologação cálculos do
+cumprimento de sentença TJSP
+(instituição pública) |  |  | ARMANDO |  |  | SENTENÇA + EMBARGOS DE
+DECLARAÇÃO + CONFERIR
+TRÂNSITO EM JULGADO +
+RPV/PRECATÓRIO |  | 
+Sentença homologação cálculos do
+cumprimento de sentença
+(instituição pública) |  |  | ARMANDO |  |  | SENTENÇA + EMBARGOS DE
+DECLARAÇÃO + PETIÇÃO DE MEIO16 |  | 
+Intimação acerca do teor do
+RPV/Precatório |  |  | ARMANDO |  |  | PETIÇÃO DE MEIO17 |  | 
+Rejeita PRECATÓRIO/RPV por
+inconsistências TJSP |  |  | ARMANDO |  |  | RPV/PRECATÓRIO18 |  | 
+Acerca do pagamento da
+condenação TJSP |  |  | ARMANDO |  |  | MLE |  | 
+Intimação acerca do pagamento da
+condenação |  |  | ARMANDO |  |  | PETIÇÃO DE MEIO19 |  | 
+Intimação acerca da TED realizada
+TRFs e EPROCs |  |  | CAROL |  |  | CONFERIR20 |  | 
+Sentença de extinção em razão da DOUBLE CHECK NADA ou *RECADO
+satisfação do crédito +
+arquivamento dos autos
+Inclusão do Precatório na lista de DOUBLE CHECK NADA ou *RECADO
+ordem cronológica do Ente
+Sentença de extinção em razão da
+satisfação do crédito +
+arquivamento dos autos | DOUBLE CHECK | NADA ou *RECADO
+Inclusão do Precatório na lista de
+ordem cronológica do Ente | DOUBLE CHECK | NADA ou *RECADO

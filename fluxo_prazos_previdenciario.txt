@@ -1,0 +1,79 @@
+TIPOS DE PROCESSOS: JUDICIAIS, ADMINISTRATIVOS DE INSS E ADMINISTRATIVOS DA RECEITA FEDERAL.
+BENEFICIOS: INCAPACIDADE, LOAS, APOSENTADORIA
+RECEBIMENTO DA INICIAL E EMENDA
+Ação: O juiz recebe a inicial, indefere a tutela de urgência (geralmente) e, caso necessário determina a emenda.
+Prazo da emenda: geralmente 5 dias.
+TAREFAS: 
+EMENDA À INICIAL (RESP: LUCAS)
+COBRAR CLIENTE – D+1 (RESP. LAÍS)
+DETERMINAÇÃO DE PERÍCIA MÉDICA
+Ação: O juiz analisa e determina:
+- Designação de perícia médica, se for o caso.
+Prazo: Variável, dependendo do andamento processual.
+TAREFA: 
+PROVIDÊNCIA PERÍCIA (RESP: CONTROLADORIA) D+1
+APRESENTAR QUESITOS (LUCAS) – PRAZO 5D
+OBS: NÃO INDICAMOS ASSISTENTE TÉCNICO
+Perícia Médica/ Avaliação Social
+Ação: Realização da perícia para avaliar deficiência.
+Peça cabível (após perícia):
+- Impugnação ao laudo pericial: Quando há inconsistências ou erros no laudo.
+- Manifestação ao laudo: Quando for favorável e reconhecer a deficiência
+Prazo: Determinado pelo juiz, geralmente 15 dias após a disponibilização do laudo (art. 477, §1º, CPC).
+TAREFAS: MF LAUDO (RESP: LUCAS)
+Juiz determina Avaliação Social
+Peça cabível na data que o juiz agendar a perícia: Apresentação de quesitos, envio do contato do cliente atualizado e geolocalização exata da residência do autor. (em alguns estados está sendo feito por videochamada, nesses casos será necessário apenas o número de telefone)
+Prazo: 5 dias
+TAREFAS: AVISAR AO CLIENTE  D+1
+PETIÇÃO DE MEIO (PARA INFORMAR GEOLOCALIZAÇÃO E/OU TELEFONE) – LUCAS
+SENTENÇA PREV
+Ação: Proferimento da sentença pelo juiz.
+Peça cabível:
+- Embargos de declaração: 5 dias (art. 1.023, CPC).
+- Recurso Inominado: 15 dias (art. 1.003, §5º, CPC).
+ENCADEAMENTO: 
+Compromisso 1:
+Tipo de Compromisso: Conferir Trânsito em Julgado
+Responsável: Lucas Luchi
+Prazo: Data do prazo fatal da Atividade + 30 dias úteis
+Compromisso 2:
+Tipo de Compromisso: Avisar Cliente
+Responsável: Lais Lima
+Prazo: Data do prazo fatal da Atividade + 1 dia útil
+Compromisso 3:
+Tipo de Compromisso: Embargos de Declaração
+Responsável: Lucas Luchi
+Prazo: Data do prazo fatal da Atividade + 2 dias úteis
+Compromisso 4:
+Tipo de Compromisso: Recurso Inominado
+Responsável: Lucas Luchi
+Prazo: Data do prazo fatal da Atividade + 6 dias úteis
+ Compromisso 5:
+Tipo de Compromisso: Gerar Custas
+Responsável: Lucas Luchi
+Prazo: Data do prazo fatal da Atividade + 6 dias úteis
+DA IMPLANTAÇÃO DO BENEFÍCIO
+TAREFAS: 
+RECADO (Lucas)
+Avisar cliente (Laís)
+Fase Recursal (Tribunal Regional Federal)
+Peças cabíveis:
+
+INSCRIÇÃO PARA SUSTENTAÇÃO ORAL (LAÍS) D+1
+Prazo: No dia que sair a intimação para ser um dos primeiros a realizá-la.
+DO ACÓRDÃO:
+AVISAR CLIENTE (LAÍS)
+ED, RE OU PUIL, CONFERIR TRANSITO EM JULGADO
+- Recurso especial ou extraordinário: Após decisão do tribunal, se houver questão de repercussão geral ou interpretação de norma federal.
+Prazo: Recurso especial/extraordinário: 15 dias (art. 1.003, §5º, CPC).
+CUMPRIMENTO DE SENTENÇA (EXECUÇÃO INVERTIDA)
+Ação: Fase de execução para pagamento de atrasados ou implantação de benefício.
+Peças cabíveis:
+- Requerimento de cumprimento de sentença.
+- Impugnação ao cumprimento de sentença (se cálculos estiverem errados).
+Prazo: Variável conforme determinação judicial.
+TAREFAS: 
+Normalmente é o INSS que apresenta cálculos ou o tribunal consolida.
+MF CÁLCULOS E MANIFESTAR DESTAQUE
+AVISAR CLIENTE (LAÍS)
+FLUXOS DE PRAZOS PREVIDENCIÁRIO

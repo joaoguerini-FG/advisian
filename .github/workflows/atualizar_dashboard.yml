@@ -1,0 +1,48 @@
+name: Atualizar Dashboard de Prazos
+
+on:
+  schedule:
+    # Todo dia as 6h horario Brasilia (9h UTC, pois Brasilia = UTC-3)
+    - cron: '0 9 * * *'  # 6h horario Brasilia
+  workflow_dispatch:  # permite disparar manualmente
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependencias
+        run: |
+          pip install requests openai openpyxl
+
+      - name: Executar pipeline
+        env:
+          DATAJURI_CLIENT_ID: ${{ secrets.DATAJURI_CLIENT_ID }}
+          DATAJURI_SECRET: ${{ secrets.DATAJURI_SECRET }}
+          DATAJURI_USER: ${{ secrets.DATAJURI_USER }}
+          DATAJURI_PASS: ${{ secrets.DATAJURI_PASS }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python pipeline_diario.py
+
+      - name: Gerar dashboard HTML
+        run: |
+          python dash_simples.py
+
+      - name: Commit e push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dashboard_prazos.html intimacoes_state.json
+          git diff --staged --quiet || git commit -m "Atualizacao automatica $(date -u +%Y-%m-%d)"
+          git push

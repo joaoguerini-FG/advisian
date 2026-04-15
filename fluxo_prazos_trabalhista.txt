@@ -1,0 +1,113 @@
+AUDIÊNCIA (TIPO, DATA, HORA, MODALIDADE, LOCAL) 
+Na observação deve constar: 
+EX: AUDIENCIA UNA - DIA XX/XX/XXXX às xx:xx horas- VILA VELHA/ES 
+Conferir data e horário da audiência (verificar fuso horário e modalidade - Presencial/híbrida/virtual) 
+Em caso de audiência presencial, cadastrar tarefa - CONVERSÃO AUDIÊNCIA  
+OBS: EM CASO DE RESIGNAÇÃO- AGENDAR UM RECADO PARA O SETOR DE PROVIDÊNCIAS COM A INFORMAÇÃO. 
+ENCADEAMENTO DE TAREFAS: 
+Quando for cadastrada uma nova Atividade com:
+Assunto = Audiência
+Data de cadastro ≥ HOJE
+Serão criados automaticamente três Compromissos:
+Conferir Ata (Responsável: Paulyenne) – Prazo: Data da Atividade + 1 dia útil.
+Providências Audiência (Responsável: Julia Milanezi) – Prazo: Data de cadastro da Atividade + 1 dia útil.
+Double Check da Ata (Trab) (Responsável: Julia Milanezi) – Prazo: Data da Atividade + 1 dia útil.
+Todos os compromissos terão a mesma pessoa (cliente), processo e observações da Atividade original, e a situação inicial será "Não iniciado".
+NEGATIVA DE CONVERSÃO DE AUDIÊNCIA 
+Agenda mandado de segurança – D+1
+DECISÃO DO MANDADO DE SEGURANÇA  
+Recursos cabíveis: 
+Embargos de declaração 
+NEGA LIMINAR: Agravo interno (decisão monocrática) 
+ACÓRDÃO DENEGANDO: Recurso ordinário 
+Procedimento: Cria recado para o setor de providências avisar cliente e/ou cancelar correspondente 
+ENCADEAMENTO
+Quando for cadastrada uma nova Atividade com:
+Assunto = DECISÃO - NEGA LIMINAR MS
+Data de cadastro = HOJE
+Serão criadas automaticamente duas Tarefas:
+Recado (Responsável: Bruna Vidal) – Prazo: Data de cadastro da Atividade + 1 dia útil.
+Recado (Responsável: Julia Milanezi) – Prazo: Data de cadastro da Atividade + 1 dia útil.
+EXCEÇÃO DE INCOMPETÊNCIA  
+CR EXCEÇÃO DE INCOMPETENCIA 
+DECISÃO INTERLOCUTÓRIA 
+ENCADEAMENTO
+Ao cadastrar novos registros do tipo Atividade quando o campo Assunto igual a DECISÃO TRABALHISTA E o campo Data de cadastro igual a HOJE:
+Criar um novo registro de Compromisso com: Compromisso 1:
+Tipo de Compromisso: Embargos de Declaração
+Responsável: Bruna Vidal
+Prazo: Data do prazo fatal da Atividade + 3 dias úteis
+Compromisso 2:
+Tipo de Compromisso: Avisar Cliente
+Responsável: Joyce
+Prazo: Data do prazo fatal da Atividade + 1 dia útil
+Compromisso 3:
+Tipo de Compromisso: Recurso Ordinário
+Responsável: Bruna Vidal
+Prazo: Data do prazo fatal da Atividade + 6 dias úteis
+EMENDA À INICIAL  
+Criar tarefa de emenda  
+Criar tarefa para solicitação de documentos ao cliente ou envio de solicitação de liquidação ao contador 
+RÉPLICA 
+Criar tarefa de réplica 
+PRODUÇÃO DE PROVAS 
+- Apresentar quesitos 
+- Apresentar assistente técnico 
+- Manifestação ao laudo 
+Encadeamento da Tarefa MF ao Laudo:
+Quando for cadastrada uma nova Atividade com:
+•	Assunto = MF Laudo
+•	Data de cadastro = HOJE
+Será criada automaticamente uma Tarefa com os seguintes detalhes:
+•	Assunto: Avisar Cliente
+•	Responsável: Mesmo proprietário da Atividade original
+•	Prazo: Data do prazo fatal da Atividade + 1 dia útil
+•	Processo e Pessoa: Vinculados à Atividade original
+•	Observações: "Avisar cliente do resultado da perícia e MF laudo."
+- Manifestação aos esclarecimentos periciais 
+PERÍCIA 
+Agendar a tarefa – Providência Perícia (com as informações na observação)
+SENTENÇA 
+Quando for cadastrada uma nova Atividade com Assunto = SENTENÇA TRABALHISTA e Data de cadastro = HOJE, serão criados automaticamente quatro Compromissos:
+Embargos de Declaração (Responsável: Bruna Vidal) – Prazo em 2 dias úteis.
+Avisar Cliente (Responsável: Joyce) – Prazo em 1 dia útil.
+Conferir Trânsito em Julgado (Responsável: Bruna Vidal) – Prazo em 30 dias úteis.
+Recurso Ordinário (Responsável: Bruna Vidal) – Prazo em 5 dias úteis.
+CUMPRIMENTO DE SENTENÇA (ENCADEAMENTO)
+Quando for cadastrada uma nova Atividade com:
+Assunto = CUMP.SENT. TRABALHISTA
+Data de cadastro = HOJE
+Serão criadas automaticamente três Tarefas:
+Avisar Cliente (Responsável: Joyce) – Prazo: Data do prazo fatal da Atividade + 1 dia útil.
+Observação: Avisar cliente do trânsito em julgado.
+Solicitar Cálculos ao Contador (Responsável: Bruna Vidal) – Prazo: Data de cadastro da Atividade + 1 dia útil.
+Cumprimento de Sentença (Responsável: Bruna Vidal) – Prazo: Data de cadastro da Atividade + 8 dias úteis.
+Todas as tarefas serão vinculadas ao mesmo processo e pessoa da Atividade original, com a situação inicial "Não iniciado".
+ACÓRDÃO 
+Embargos de declaração (5 dias) 
+Recurso de revista (8 dias) 
+Avisar cliente 
+Em caso de procedência agendar - CONFERIR TRÂNSITO EM JULGADO 
+ENCADEAMENTO
+Compromisso 1:
+Tipo de Compromisso: Conferir Trânsito em Julgado
+Responsável: Bruna Vidal
+Prazo: Data do prazo fatal da Atividade + 30 dias úteis
+Compromisso 2:
+Tipo de Compromisso: Avisar Cliente
+Responsável: Joyce
+Prazo: Data do prazo fatal da Atividade + 1 dia útil
+Compromisso 3:
+Tipo de Compromisso: Embargos de Declaração
+Responsável: Gustavo Angeli
+Prazo: Data do prazo fatal da Atividade + 3 dias úteis
+Compromisso 4:
+Tipo de Compromisso: Recurso de Revista
+Responsável: Gustavo Angeli
+Prazo: Data do prazo fatal da Atividade + 6 dias úteis
+OBS:  
+JUIZ NÃO DEU PRAZO? CONTA 5 DIAS  
+RO / RR / ED/ AIRRO – RR e AIRRO seguir o fluxo do RO  
+RO – PRAZO 8 DIAS 
+ED – PRAZO 5 DIAS 
+FLUXOS DE PRAZOS TRABALHISTA
